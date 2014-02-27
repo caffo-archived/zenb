@@ -1,0 +1,12 @@
+{
+  "name": "zenb",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Zenburn like theme",
+  "repository": "https://github.com/caffo/zenb",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
