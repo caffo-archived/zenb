@@ -1,3 +1,3 @@
 # zenb theme
 
-A short description of your theme.
+Zenburn like theme for Atom Editor
